@@ -1,5 +1,4 @@
 import os
-import threading
 from a_extract_data.extract_data import extract_images
 from b_split_data.split_data import split_data
 from c_train_model.train_model import train_model
