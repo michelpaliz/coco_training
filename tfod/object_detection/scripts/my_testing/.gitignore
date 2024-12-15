@@ -5,3 +5,8 @@ bin/
 lib/
 .ipynb_checkpoints/
 __pycache__/
+lib/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+__pycache__/
