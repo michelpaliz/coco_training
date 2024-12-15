@@ -11,8 +11,6 @@ class Paths:
     PROCESSED_DIR = f"{BASE_DIR}/processed"
     TRAIN_DIR = f"{PROCESSED_DIR}/train"
     VAL_DIR = f"{PROCESSED_DIR}/val"
-    RESIZED_DIR = f"{PROCESSED_DIR}/resized"
-
     # Test dataset
     TEST_DIR = f"{BASE_DIR}/test"
 
