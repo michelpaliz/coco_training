@@ -19,3 +19,8 @@ bin/
 lib/
 share/man/
 progress.txt
+.vscode/
+bin/
+lib/
+progress.txt
+share/man/
